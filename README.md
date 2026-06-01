@@ -8,9 +8,6 @@
 - 🚀 Developer of https://hatimdagit.com
 
 
-<img src="https://komarev.com/ghpvc/?username=yusuf0x73&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf0x73" />
-
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf0x73&include_all_commits=true&count_private=true&show_icons=true&theme=merko)](https://github.com/yusuf0x73/github-readme-stats)
 
 
