@@ -12,4 +12,4 @@
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusuf0x73&theme=github_dark)]()
 
 
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
