@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Yusuf.
 - :) I’m interested in AI, web development and cyber security in depth.
-- 🌱 I tinker with stuff that others dont like to :D.
+- 🌱 I tinker with stuff that others dont like to.
 - 💞️ I would love to contribute on projects that are useful for humanity. :)
 - 📫 You can reach me via mail.
 - 🚀 Developer of https://hatimdagit.com
